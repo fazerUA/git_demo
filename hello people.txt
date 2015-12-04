@@ -1,1 +1,2 @@
-print ("Hello brithers!")
+print ("Hello brothers!");
+print ("small problem in text on the f... lenovo keyboard")
